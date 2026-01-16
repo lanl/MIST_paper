@@ -7,4 +7,4 @@ All of the functionality is contained in the functions in this file.
 This code illustrates many of the functionality in functions.R.
 
 # LICENSE.md
-Copywrite and licensing information
+This work is open source under . Please see LICENSE.md for copywrite and licensing details. 
