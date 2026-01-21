@@ -7,4 +7,4 @@ All of the functionality is contained in the functions in this file.
 This code illustrates many of the functionality in functions.R.
 
 # LICENSE.md
-This work is Open-Source under the BSD-3 License. Please see LICENSE.md for copywrite and licensing details. 
+This work is Open-Source under the BSD-3 License. Please see LICENSE.md for copyright and licensing details. 
